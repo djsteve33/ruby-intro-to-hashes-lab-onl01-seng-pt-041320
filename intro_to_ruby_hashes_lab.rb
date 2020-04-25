@@ -1,5 +1,5 @@
 def new_hash
-
+songs_and_artists = {}
 end
 
 def actor
