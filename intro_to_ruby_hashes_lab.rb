@@ -3,6 +3,7 @@ songs_and_artists = {}
 end
 
 def actor
+  actor = {:name 
 
 end
 
